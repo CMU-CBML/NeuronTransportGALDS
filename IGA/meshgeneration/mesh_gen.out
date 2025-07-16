@@ -1,0 +1,427 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2022 The MathWorks, Inc.
+             R2022b Update 5 (9.13.0.2193358) 64-bit (glnxa64)
+                             February 10, 2023
+
+Warning: X does not support locale en_US.UTF-8
+[Warning: Directory permission denied: /jet/home/vpatel3/Matlab/data_gen/ssget] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/Doc] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/MM] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/RB] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/ACUSIM] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/AG-Monien] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/AMD] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/ANSYS] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/ATandT] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Alemdar] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Andrews] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Andrianov] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Arenas] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Averous] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Bai] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Barabasi] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Bates] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Belcastro] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/BenElechi] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Bindel] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Bodendiek] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Boeing] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Bomhof] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Botonakis] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Bourchtein] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Bova] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Brethour] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Brogan] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Brunetiere] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Buss] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Bydder] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/CEMW] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/CPM] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Cannizzo] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Castrillon] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Chen] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Chevron] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Clark] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Cote] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Cunningham] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Cylshell] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/DIMACS10] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/DNVS] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/DRIVCAV] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Dattorro] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Davis] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Dehghani] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Dziekonski] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Embree] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Engwirda] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/FEMLAB] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/FIDAP] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Fluorem] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/FreeFieldTechnologies] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Freescale] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/GAP] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/GHS_indef] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/GHS_psdef] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Gaertner] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Garon] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/GenBank] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Gleich] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Goodwin] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Graham] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Grueninger] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Grund] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Gset] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Guettel] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Gupta] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/HB] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/HVDC] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Hamm] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Hamrle] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Hardesty] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Harvard_Seismology] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Hohn] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Hollinger] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/IBM_Austin] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/IBM_EDA] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/INPRO] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/IPSO] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_BIBD] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_CAG] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_Forest] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_Franz] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_G5] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_GL6] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_GL7d] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_Groebner] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_Homology] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_Kocay] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_Margulies] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_Relat] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_SL6] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_SPG] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_Taha] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/JGD_Trefethen] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Janna] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Kamvar] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Kemelmacher] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Kim] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Koutsovasilis] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/LAW] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/LPnetlib] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Langemyr] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/LeGresley] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Lee] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Li] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Lin] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/LiuWenzhuo] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Lourakis] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Lucifora] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Luong] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/MAWI] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/MKS] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Mallya] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Mancktelow] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Marini] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Martin] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/MathWorks] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/MaxPlanck] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Mazaheri] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/McRae] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Meng] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Meszaros] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Mittelmann] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Moqri] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Morandini] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Muite] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Mulvey] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Mycielski] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/ND] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/NYPA] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Nasa] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Negre] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Nemeth] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Newman] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Norris] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Oberwolfach] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Okunbor] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/PARSEC] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/POLYFLOW] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Pajek] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Pereyra] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Pothen] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/PowerSystem] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Precima] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Priebel] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Puri] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/QCD] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/QLi] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/QY] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Qaplib] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Quaglino] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Rajat] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Raju] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Rommes] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Ronis] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Rost] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Rothberg] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Rucci] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Rudnyi] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/SNAP] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Sandia] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Sanghavi] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Schenk] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Schenk_AFE] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Schenk_IBMNA] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Schenk_IBMSDS] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Schenk_ISEI] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Schmid] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Schulthess] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Shen] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Shyy] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Simon] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Sinclair] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Sorensen] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Springer] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Stevenson] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Sumner] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Sybrandt] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Szczerba] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/TAMU_SmartGridCenter] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/TKK] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/TOKAMAK] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/TSOPF] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Toledo] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Tromble] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/UTEP] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Um] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/VDOL] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/VLSI] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/VanVelzen] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Vavasis] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Wang] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Watson] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Williams] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Wissgott] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/YCheng] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/YZhou] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Yoshiyasu] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Zaoui] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Zhao] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/Zitney] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/files/vanHeukelum] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/mat] 
+[Warning: Directory permission denied:
+/jet/home/vpatel3/Matlab/data_gen/ssget/svd] 
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 

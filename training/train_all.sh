@@ -1,0 +1,5 @@
+python3 AD1_Training.py
+python3 NN1_Training.py
+python3 AD2_Training.py
+python3 NN2_Training_NeuralODE_n0.py
+python3 NN2_Training_NeuralODE_nplus.py

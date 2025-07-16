@@ -1,0 +1,2 @@
+ENABLE_GPU = True
+PLOT_RESULT = False
